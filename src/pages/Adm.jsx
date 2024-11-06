@@ -212,7 +212,7 @@ const Adm = ({ theme, setTheme }) => {
                             />
 
                             <button className='button-prod-css-adm' onClick={handleCadastrar}>CADASTRAR</button>
-                            <img src={prod_foto} className='prod-foto-css' />
+                            <img src={prod_foto} className='prod-foto-css' />a
                         </div>
 
                         <div className='right-container'>
